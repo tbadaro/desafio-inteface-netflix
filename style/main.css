@@ -34,7 +34,7 @@ text-decoration: none;
 }
 header .logo{
     text-decoration: none;
-    margin-left: 5px;
+    margin-left: 15px;
     margin-right: 25px;
     color: var(--vermelho);
     font-family: 'Arial Black';
